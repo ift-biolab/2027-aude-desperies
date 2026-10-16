@@ -8,10 +8,11 @@ title: "Home"
 
 | Field | Value |
 |---|---|
-| Student or team | To be completed |
-| Programme and cohort | To be completed |
-| Project title | To be completed |
-| Supervisor | To be completed |
+| Student or team | Aude Desperies |
+| Academic year | 2026–2027 |
+| Level | A5 |
+| Project title | Ghost Fishing |
+| Supervisor | Vivien Roussel |
 | Current status | To be completed |
 
 ## Documentation
